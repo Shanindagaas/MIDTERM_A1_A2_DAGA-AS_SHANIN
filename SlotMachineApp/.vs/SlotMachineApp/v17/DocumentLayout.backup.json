@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2022\\SlotMachineApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\slotmachineapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:slotmachineapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|d:\\vs2022\\slotmachineapp\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63390A9A-8AAB-4C4F-BBD9-E2D79DA9A0E3}|SlotMachineApp.csproj|solutionrelative:models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:43:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:42:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotMachineApp",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\SlotMachineApp.csproj",
+              "RelativeDocumentMoniker": "SlotMachineApp.csproj",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\SlotMachineApp.csproj",
+              "RelativeToolTip": "SlotMachineApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T13:42:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:41:56.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "Models\\GameResult.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Models\\GameResult.cs",
+              "RelativeToolTip": "Models\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:41:47.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:16:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\VS2022\\SlotMachineApp\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "D:\\VS2022\\SlotMachineApp\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:43:50.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
